@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on computer science concepts
+- 🔭 I’m currently working on my computer science concepts :)
 - 🌱 I’m currently practising coding
 - 🤔 I’m looking for help with competitive coding
 - 💬 Ask me about flutter ig...
