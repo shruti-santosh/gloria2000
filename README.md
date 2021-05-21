@@ -9,5 +9,5 @@
 - 📫 How to reach me:  
 - ⚡ Fun fact: 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloria2000)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-drab-iota.vercel.app/api?username=gloria2000&count_private=true&show_icons=true&layout=compact&theme=nightowl" height="180px" />
 
